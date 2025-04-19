@@ -35,16 +35,28 @@ func getNumbers(num1 int, num2 int) (int, int){
   return sum, mul
 }
 
+func oiKire(){
+  fmt.Println("modhu modhu")
+}
+func sayHi(name string){
+  fmt.Println("welcome to go: ", name)
+}
+
 func main(){
-  a := 5
-  b := 7
+  // a := 5
+  // b := 7
  
-  sum := add(a, b)
-  fmt.Println("meyer sum:", sum)
+  // sum := add(a, b)
+  // fmt.Println("meyer sum:", sum)
 
 
-  p, q := getNumbers(a, b)
+  // p, q := getNumbers(a, b)
   
-  fmt.Println(p)
-  fmt.Println(q)
+  // fmt.Println(p)
+  // fmt.Println(q)
+
+  oiKire()
+  sayHi("kabir")
+  
+
 }
