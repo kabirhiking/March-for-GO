@@ -14,3 +14,28 @@ To check if Go is installed:
 
 ```bash
 go version
+
+## 📘 Topics Covered
+
+- Variables and Constants
+- Functions
+- Control Structures (if, for, switch)
+- Arrays, Slices, and Maps
+- Structs and Interfaces
+- Pointers
+- Goroutines and Channels (basics)
+- Error Handling
+
+
+✅ Goals
+✅ Setup Go environment
+
+✅ Learn basic syntax
+
+🔲 Understand pointers, structs, interfaces
+
+🔲 Practice concurrency
+
+🔲 Build small CLI tools
+
+🔲 Learn testing and benchmarking
