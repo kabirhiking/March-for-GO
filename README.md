@@ -30,7 +30,7 @@ go version
 ✅ Goals
 ✅ Setup Go environment
 
-✅ Learn basic syntax
+🔲 Learn basic syntax
 
 🔲 Understand pointers, structs, interfaces
 
