@@ -51,7 +51,7 @@ func init() {
 ## code segment ekta binary file er modhe thake jokhon ./main diye file run kori tokhon ram er modhe ashe code segment er por first to last read kore. erpor global variable gual Data segment e ashe. joto function ache shob stack frame occupied kore run hoy(stack frame e jegula thake egula local scope. Code segment er jinish potro read only change kora jayna but data segment er jinish pati chang kora jay).
 
 Closure -> ekta function er modhe onno ekta function thake. jokhon outer function ta call hoy tokhon inner function ta call hoy. inner function ta outer function er variable gual access korte pare. closure er maddhome amra data hiding korte pari. closure er maddhome amra encapsulation o korte pari.
-
+escap e analysis -> jokhon amra function ta call kori tokhon stack frame e function ta thake. jokhon amra function ta return kori tokhon stack frame ta remove hoye jay. kintu jokhon amra inner function ta outer function er variable gual access kori tokhon stack frame ta remove hoye na. karon inner function ta outer function er variable gual access korte pare. tai closure er maddhome amra data hiding korte pari.
 */
 
 
